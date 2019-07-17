@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/game.png</file>
+        <file>res/item1.bmp</file>
+        <file>res/item2.bmp</file>
+        <file>res/item3.bmp</file>
+        <file>res/item4.bmp</file>
+        <file>res/led.png</file>
+        <file>res/music.png</file>
+        <file>res/setting.png</file>
+        <file>res/uart.png</file>
+        <file>res/video.png</file>
+        <file>res/wuziqi_back.jpg</file>
+        <file>res/back.png</file>
+        <file>res/file.png</file>
+        <file>res/pre.png</file>
+        <file>res/start.png</file>
+        <file>res/stop.png</file>
+        <file>res/mac.png</file>
+        <file>res/time.png</file>
+        <file>res/SD.png</file>
+        <file>res/usb.png</file>
+    </qresource>
+</RCC>
